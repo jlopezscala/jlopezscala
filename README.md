@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jlopezscala
-- 🌱 Currently learning Rust ⚙️
+- 👋 Hi, I’m Julian
+- 🌱 Currently learning Rust ⚙️ -> [Rust-book Notes](https://github.com/jlopezscala/rust-book)
 - 🛠 Currently working with Python and Serverless over AWS
 - 📫 Reach me via Linkedin -> [Linkedin 👥](https://www.linkedin.com/in/jlopezscala/)
-- 🤟 Two things I love in life, coding 💻 and skiing ⛷️
+- 🤟 Two things I love in life: Coding 💻 and Skiing ⛷️
 
 
