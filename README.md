@@ -5,10 +5,13 @@
   <td valign="center">
     🪜 - I've <b>never</b> coded Scala language, despite of my last name.<br>
     🎯 - Currently working with <b>Python</b> and Serverless over AWS.<br>
-    🌱 - Trying to code <b>Rust</b>⚙️. Check my notes https://github.com/jlopezscala/rust-book & https://github.com/jlopezscala/rust-by-example.<br>
-    ✨ - Reach out to me via <b>Linkedin</b> -> [Linkedin 👥](https://www.linkedin.com/in/jlopezscala/).<br>
-    😒 - I dont do very well on the Frontend as you may see.. 🥲
-<td >
+    🌱 - Trying to code <b>Rust</b>⚙️. Check my notes on <a href="https://github.com/jlopezscala/rust-book"> The Rust Book </a> & <a href="https://github.com/jlopezscala/rust-by-example"> Rust by Example</a> book.<br>
+    ✨ - Reach out to me via <a href="https://www.linkedin.com/in/jlopezscala/"> Linkedin</a>.<br>
+  <br> 
+  <br>
+    <i>UX/UI is not my thing...</i> 🥲
+
+  <td >
     <a href="https://app.daily.dev/jlopezscala"><img src="https://api.daily.dev/devcards/b57dd2bbb398488fa0d03e7e4203cbdb.png?r=vrm" alt="Julian Lopez Scala's Dev Card"/></a>
   </td>
 
