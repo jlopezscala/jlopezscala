@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td valign="center">
-    🪜 - I've <b>never</b> coded Scala language, despite of what my last name claims.<br>
+    🪜 - I've <b>never</b> coded Scala language, despite of my last name.<br>
     🎯 - Currently working with <b>Python</b> and Serverless over AWS.<br>
     🌱 - Trying to code <b>Rust</b>⚙️. Check my notes https://github.com/jlopezscala/rust-book & https://github.com/jlopezscala/rust-by-example.<br>
     ✨ - Reach out to me via <b>Linkedin</b> -> [Linkedin 👥](https://www.linkedin.com/in/jlopezscala/).<br>
@@ -20,8 +20,8 @@
 
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlopezscala&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="jlopezscala" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jlopezscala&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="jlopezscala" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlopezscala&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="jlopezscala" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jlopezscala&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="jlopezscala" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlopezscala&theme=highcontrast&hide_border=true" alt="jlopezscala" />
 </p>
 
