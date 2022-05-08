@@ -1,4 +1,3 @@
-# Hi, I'm Julian 👋
 
 <table>
 <tr>
@@ -19,14 +18,15 @@
 </table>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jlopezscala&theme=xcode&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jlopezscala&theme=redical&hide_border=true)
 
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlopezscala&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="jlopezscala" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jlopezscala&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="jlopezscala" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlopezscala&theme=highcontrast&hide_border=true" alt="jlopezscala" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlopezscala&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="jlopezscala" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jlopezscala&show_icons=true&theme=radical&locale=en&hide_border=true" alt="jlopezscala" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlopezscala&theme=radical&hide_border=true" alt="jlopezscala" />
 </p>
+
 
 ## Let's talk
 <p align="left">  
