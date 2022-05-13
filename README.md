@@ -1,5 +1,4 @@
 
-<table>
 <tr>
   <td valign="center">
     🪜 - I've <b>never</b> coded Scala language, despite of my last name.<br>
@@ -8,14 +7,8 @@
     ✨ - Reach out to me via <a href="https://www.linkedin.com/in/jlopezscala/"> Linkedin</a>.<br>
   <br> 
   <br>
-    <i>UX/UI is not my thing...</i> 🥲
-
-  <td >
-    <a href="https://app.daily.dev/jlopezscala"><img src="https://api.daily.dev/devcards/b57dd2bbb398488fa0d03e7e4203cbdb.png?r=vrm" alt="Julian Lopez Scala's Dev Card"/></a>
-  </td>
-
+    <i>As you may see, UX/UI is not my thing...</i> 🥲
 </tr>
-</table>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jlopezscala&theme=redical&hide_border=true)
