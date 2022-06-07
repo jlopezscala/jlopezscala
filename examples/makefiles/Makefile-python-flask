@@ -11,7 +11,8 @@ coverage \
 print \
 postgres-down \
 postgres-up \
-service-run \
+build-no-cache \
+build \
 up \
 down \
 
@@ -74,7 +75,7 @@ help:
 # Python Init & Clean
 # -----------------------------
 
-init: clean init-venv pre-commit-install
+init: clean init-venv
 
 init-venv: clean-venv create-venv update-venv
 	@echo ""
@@ -92,17 +93,9 @@ update-venv:
 		pip install -r $(REQUIREMENTS) \
 	)
 
-pre-commit-install:
-	@( \
-		. $(VENV)/bin/activate; \
-		pre-commit install; \
-	)
 
-clean: clean-npm clean-pyc clean-test clean-venv docker-down
+clean: clean-pyc clean-test clean-venv docker-down
 
-clean-npm:
-	@echo "Removing node modules..."
-	@rm -rf node_modules
 
 clean-venv:
 	@echo "Removing virtual environment: $(VENV)..."
@@ -130,13 +123,10 @@ clean-test: clean-pyc
 # Executing and orchestrating the test suites
 # -----------------------------
 
-test: clean-test $(TEST_REQ) test-pytest $(TEST_END)
+test: clean-test test-pytest
 
-integration-test: clean-test $(TEST_REQ) test-services-start integration-pytest test-services-end $(TEST_END)
 
-local-integration-test: clean-test integration-pytest
-
-coverage: clean-test $(TEST_REQ) coverage-pytest $(TEST_END)
+coverage: clean-test coverage-pytest
 
 coverage-pytest:
 	@echo "Running test with coverage report..."
