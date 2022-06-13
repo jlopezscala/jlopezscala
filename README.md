@@ -11,16 +11,6 @@
 </tr>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jlopezscala&theme=redical&hide_border=true)
-
-
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlopezscala&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="jlopezscala" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jlopezscala&show_icons=true&theme=radical&locale=en&hide_border=true" alt="jlopezscala" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlopezscala&theme=radical&hide_border=true" alt="jlopezscala" />
-</p>
-
-
 ## Let's talk
 <p align="left">  
 <a href="https://twitter.com/jlopezscala" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
