@@ -13,8 +13,8 @@
 
 ## Let's talk
 <p align="left">  
-<a href="https://twitter.com/jlopezscala" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://linkedin.com/in/julianils" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://twitter.com/tughlaif" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://linkedin.com/in/jlopezscala" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/jlopezscala" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 </p>
     
